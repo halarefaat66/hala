@@ -1,0 +1,9 @@
+#include<iostream>
+using Namespace std;
+int main()
+{
+int x,y,sum;
+sum=x+y;
+cin<<x<<y;
+cout>>sum;
+}
